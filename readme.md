@@ -14,7 +14,7 @@
 
 <font size = "4.5"><b>How to use</b>:
 1. Launch the application by running the following command:
-    `stramlit run app_name.py`
+    `stramlit run app.py`
 2. The application will open in your default web browser.
 3. Click on the "Start Transcription" button to begin capturing your voice.
 4. Speak clearly into your microphone, and the application will transcribe the whole sentence after few seconds.
